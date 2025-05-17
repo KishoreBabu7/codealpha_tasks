@@ -1,9 +1,3 @@
-# 🚀 React Project – [Project Name Here]
-
-Welcome to my React-based **[Project Name]**! This application was developed during my internship at **CodeAlpha** as part of a series of hands-on React tasks. The purpose of this project is to explore modern front-end development using **React.js** with real-world functionality and responsive design.
-
----
-
 ## ✨ Features
 
 - ✅ Responsive and clean user interface
@@ -33,5 +27,57 @@ To run this project on your local machine, follow these steps:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/project-name.git
-cd project-name
+git clone https://github.com/KishoreBabu7/codealpha_tasks/.git
+cd codealpha_tasks
+````
+
+### 2️⃣ Install Dependencies
+
+Make sure you have Node.js and npm installed.
+
+```bash
+npm install
+```
+
+This will install all required modules from the `package.json` file.
+
+### 3️⃣ Run the Development Server
+
+```bash
+npm run dev
+```
+
+Now, open your browser and go to:
+🌐 `http://localhost:5173`
+(Port may vary based on your setup)
+
+---
+
+## 📁 Project Structure
+
+```bash
+.
+├── public/
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── App.jsx
+│   └── main.jsx
+├── package.json
+└── README.md
+```
+
+## 📬 Contact
+
+* **Portfolio:** \[https://tulugukishorebabu.vercel.app]
+* **LinkedIn:** \[https://www.linkedin.com/in/kishorebabu-tulugu/]
+
+---
+
+## 🏷️ Tags
+
+`#ReactJS` `#Frontend` `#WebDevelopment` `#CodeAlpha` `#JavaScript` `#Vite` `#OpenSource`
+
+---
+
+⭐ If you like this project, don’t forget to star the repo and share your feedback!
