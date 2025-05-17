@@ -67,13 +67,6 @@ Now, open your browser and go to:
 └── README.md
 ```
 
-## 📬 Contact
-
-* **Portfolio:** \[https://tulugukishorebabu.vercel.app]
-* **LinkedIn:** \[https://www.linkedin.com/in/kishorebabu-tulugu/]
-
----
-
 ## 🏷️ Tags
 
 `#ReactJS` `#Frontend` `#WebDevelopment` `#CodeAlpha` `#JavaScript` `#Vite` `#OpenSource`
